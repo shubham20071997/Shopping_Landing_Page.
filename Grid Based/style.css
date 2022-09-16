@@ -1,0 +1,187 @@
+
+/* body css */
+
+body {
+    background-color: #f1f3f6 !important;
+    overflow-x: hidden;
+  }
+  
+  
+  /* navbar css */
+  
+  .navbar-fixed-top li { 
+    font-size: 20px;
+    padding: 16px 12px;
+  }
+
+  .glyphicon{
+    margin-right: 20px;
+  }
+  
+  
+  /* carousal css  */
+  
+    .carousel-inner img {
+      margin-top: 4%;
+      width: 100% ;
+      height: 600px !important;
+  }
+
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+    }
+  }
+  
+    /* marquee css */
+  
+  .mark {
+    font: italic 1.9em "Fira Sans", serif;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 8px;
+  }
+  
+  /* advertisement css */
+  
+  .ad1 {
+  
+    text-align: justify;
+    width: 100%;
+    height: 375px;
+    padding: 20px 50px;
+    font-size: x-large;
+    background-color: beige;
+    margin-top: 10px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .ad2 {
+    margin-top: 10px;
+    width: 100%;
+    height: 375px;
+    background-color: rgba(127, 255, 212, 0.103);
+  }
+  
+  .ad2>img {
+    height: 375px;
+    width: 100%;
+    object-fit: fill;
+  }
+  
+  /* deal of the day css */
+  
+  .content {
+    text-align: center;
+    margin: 30px;
+    margin-bottom: 27px !important;
+    margin-top: 30px;
+    border: thick double #32a1ce;
+    background: color #cdc6c6;
+  }
+  
+  div.star {
+    font-size: 30px;
+  }
+  
+  div.price {
+    color: #212121;
+    font-size: 1.5em;
+    margin: 10px;
+  }
+  
+  div.detail {
+    font-size: 2em;
+  }
+  
+  
+  .top-picks {
+  
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  
+  
+  .thumbnail {
+    text-align: center;
+  }
+  
+  .thumbnail>img {
+    height: 100% !important;
+    width: 100% !important;
+  }
+  
+  .top-picks>img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 300px;
+  }
+  
+  
+  /* footer css */
+  
+  footer.text-center {
+    background-color: #232f3e;
+    color: white;
+    margin: 73px 0 0 0 !important;
+    font-size: 1.5em;
+  }
+  
+  .btn btn-primary btn-floating m-1 {
+    text-align: center;
+  }
+  
+  div.copy {
+    margin-top: 20px;
+  }
+  
+  /* end of footer css */
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
