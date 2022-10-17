@@ -1,2 +1,0 @@
-Problem Statement
-Project: Shopping_Landing_Page
